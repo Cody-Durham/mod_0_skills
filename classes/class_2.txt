@@ -1,0 +1,15 @@
+Class: Foods
+
+
+Attributes:
+  isSpicy (boolean)
+  costOfDish (integer)
+  typeOfFood (array)
+  freshness (boolean)
+
+
+Methods:
+  addHotPepper (changes the vale of 'isSpicy' to true)
+  applyDiscount (reduces the costOfDish by 10%)
+  changeOrder (adds a different food 'nachos' to the 'typeOfFood' array)
+  smellsBad (displays the value of freshness to false)
