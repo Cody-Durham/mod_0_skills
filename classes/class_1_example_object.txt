@@ -12,21 +12,3 @@ Methods:
   hatFallsOff: hasHat = false
   stubbsToe: friendlyMood = false
   afterWorkFun: dressAtire = ['Work Shoes', 'Vest', 'Bling']
-
-
-
-Class:Servers
-
-
-Attributes:
-  yearsOfExperience (integer)
-  hasHat (boolean)
-  friendlyMood (boolean)
-  dressAtire (array)
-
-
-Methods:
-  getsFired (reduces yearsOfExperience by 1)
-  hatFallsOff (changes the value of hasHat to 'false')
-  stubbsToe (changes the value of friendlyMood to 'false')
-  afterWorkFun (removes 'work shirt' from array)
