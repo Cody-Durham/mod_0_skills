@@ -1,0 +1,15 @@
+Instance: Bobs Burger shop on 5th ave
+
+
+Attributes:
+  isSpicy: false
+  costOfDish: 10
+  typeOfFood: ['Spicy Burger', 'Mushroom Burger', 'Fries']
+  freshness: true
+
+
+Methods:
+  addHotPepper: isSpicy = true
+  applyDiscount: costOfDish = 9
+  changeOrder: typeOfFood =  ['Spicy Burger', 'Mushroom Burger', 'Fries', 'Nachos']
+  smellsBad: freshness = false
