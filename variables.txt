@@ -1,0 +1,21 @@
+
+
+
+var food = 'Nachos'
+var isDelicious = true
+food = 'Super Huge Nachos'
+
+num2 = 2
+num7 = 7
+
+var quotent = num7 / num2
+console.log(quotent);
+
+
+var songs = ['Who let the dogs out', 'Purple Rain', 'Bleeding Heart', 'Welcome to the jungle']
+var newSongs = songs.shift();
+console.log(songs);
+
+
+var songLength1 = songs.length
+console.log(songLength1);
