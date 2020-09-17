@@ -4,11 +4,11 @@ Attributes:
   yearsOfExperience: 4
   hasHat: true
   friendlyMood: true
-  dressAtire: ['Work Shoes', 'Vest', 'Work Shirt', 'Bling']
+  dressAttire: ['Work Shoes', 'Vest', 'Work Shirt', 'Bling']
 
 
 Methods:
   getsFired: yearsOfExperience = 3
   hatFallsOff: hasHat = false
   stubbsToe: friendlyMood = false
-  afterWorkFun: dressAtire = ['Work Shoes', 'Vest', 'Bling']
+  goToParty: dressAttire = ['Vest', 'Bling']

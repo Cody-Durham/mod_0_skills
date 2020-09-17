@@ -1,15 +1,14 @@
-Class:Servers
-
+Class: Server
 
 Attributes:
   yearsOfExperience (integer)
   hasHat (boolean)
   friendlyMood (boolean)
-  dressAtire (array)
+  dressAttire (array)
 
 
 Methods:
   getsFired (reduces yearsOfExperience by 1)
   hatFallsOff (changes the value of hasHat to 'false')
   stubbsToe (changes the value of friendlyMood to 'false')
-  afterWorkFun (removes 'work shirt' from array)
+  goToParty (removes 'work shirt' and 'work shoes' from array)
